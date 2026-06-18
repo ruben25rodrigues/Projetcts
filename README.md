@@ -5,7 +5,7 @@ Here I will post all my academic and personal projects developed during my degre
 ## IPCA 👨🏻‍🎓
 
 ### 🎓 Academic Projects
-#### **Bachelor's Degree:**LESI (Licenciatura de sistemas informáticos)** 
+#### **Bachelor's Degree:**LESI (Licenciatura de sistemas informáticos) 
 * 1st year - C language project.
 * 2nd year ...
 * 3nd year ... 
