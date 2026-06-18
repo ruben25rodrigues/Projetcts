@@ -2,8 +2,10 @@
 
 Here I will post all my academic and personal projects developed during my degree and personal coding journey.
 
+# IPCA 👨🏻‍🎓
+
 ## 🎓 Academic Projects
-### **Bachelor's Degree:** 
+### **Bachelor's Degree:**:LESI (Licenciatura de sistemas informáticos) 
 * 1st year - C language project.
 * 2nd year ...
 * 3nd year ... 
