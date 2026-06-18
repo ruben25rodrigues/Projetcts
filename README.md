@@ -20,8 +20,6 @@ Here I will post all my academic and personal projects developed during my degre
 <br>
 
 ## 💻 Personal Projects
-* Side projects, tools, and experiments built to learn new technologies.
-
 * Waiting ...
 
 ---
