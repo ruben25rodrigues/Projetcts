@@ -3,7 +3,7 @@
 Here I will post all my academic and personal projects developed during my degree and personal coding journey.
 
 ## IPCA 👨🏻‍🎓
-### *Barcelos
+
 
 ### 🎓 Academic Projects
 #### **Bachelor's Degree**: **LESI (BSc in Information Systems Engineering)** 
