@@ -10,13 +10,10 @@ Here I will post all my academic and personal projects developed during my degre
 * 1st year - C language project.
     * **Data structure projects:**
         * **[Garage project](./Academic%20Projects/Bachelor's%20Degree/1st%20Year/Data%20structure%20projects/Garage)**
-   * **System Operational Project:**
-        * **[Bash](./Academic%20Projects/Bachelor's%20Degree/1st%20Year/System%20Operational%20Project)**
-
-<br>
+    * **Operating Systems projects:**
+        * **[Bash](./Academic%20Projects/Bachelor's%20Degree/1st%20Year/Operating%20Systems%20projects/Bash)**
 * 2nd year ...
-<br>
-* 3nd year ... 
+* 3rd year ...
 <br>
 
 ## **Future Education...**
