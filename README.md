@@ -11,7 +11,7 @@ Here I will post all my academic and personal projects developed during my degre
     * **Data structure projects:**
         * **[Garage project](./Academic%20Projects/Bachelor's%20Degree/1st%20Year/Data%20structure%20projects/Garage)**
    * **System Operational Project:**
-   * **[Bash](./Academic%20Projects/Bachelor's%20Degree/1st%20Year/System%20Operational%20Project)**
+        * **[Bash](./Academic%20Projects/Bachelor's%20Degree/1st%20Year/System%20Operational%20Project)**
 
 <br>
 * 2nd year ...
